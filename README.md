@@ -42,3 +42,11 @@
     - Run chart, which is a line graph of data plotted over time.
     - Bubble chart, which is a data visualization that displays multiple circles (bubbles) in a two-dimensional plot.
     - Heat map, which is a graphical representation of data where values are depicted by color.
+
+# EDA Data Science Tools
+
+- Some of the most common data science tools used to create an EDA include:
+
+    - [Python](https://www.python.org/): An interpreted, object-oriented programming language with dynamic semantics. Its high-level, built-in data structures, combined with dynamic typing and dynamic binding, make it very attractive for rapid application development, as well as for use as a scripting or glue language to connect existing components together. Python and EDA can be used together to identify missing values in a data set, which is important so you can decide how to handle missing values for machine learning.
+    
+    - [R](https://www.r-project.org/): An open-source programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians in data science in developing statistical observations and data analysis.
